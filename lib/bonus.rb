@@ -25,6 +25,7 @@ def bonus
   puts romeo_status
   juliet_status = epic_tragedy[:capulet][:heroine][:status]
   romeo_status = "dead"
+  puts romeo_status
   juliet_status = "dead"
   puts epic_tragedy[:montague][:hero][:status]
 
